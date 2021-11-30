@@ -35,5 +35,5 @@ async def root():
 
 
 @app.post("/order")
-async def create_item(order: Order):
+async def show_order(order: Order):
     return order
