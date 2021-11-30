@@ -8,3 +8,9 @@ FastApi - Basic Api example
 # DOCS
 
     http://127.0.0.1:8000/docs
+
+# CREDENTIALS
+
+    - USER: johndoe
+
+    - PASSWORD: secret
