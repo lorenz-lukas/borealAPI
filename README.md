@@ -2,6 +2,10 @@
 FastApi - Basic Api example
 
 # Run locally - DEV deploy
+    
+    cd boralAPI
+    
+    python3 main.py
 
     uvicorn main:app --reload
 
